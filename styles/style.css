@@ -1,0 +1,116 @@
+/* Reset css*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* styles */
+button {
+    font-size: 16px;
+    font-family: Lexend Deca, sans-serif;
+    border-radius: 20px;
+    padding: 10px 20px 10px 20px;
+    font-weight: 400;
+    border-style: none;
+    background: hsl(0, 0%, 95%);
+    cursor: pointer;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.grid {
+    padding-top: 130px;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    color: #fff;
+}
+
+
+.column {
+    width: 310px;
+    height: 500px;
+}
+
+.content {
+    padding: 50px;
+}
+
+.content h1 {
+    text-transform: uppercase;
+    font-family: Big Shoulders Display, sans-serif;
+    font-weight: 700;
+    font-size: 38px;
+    padding: 40px 0 40px 0;
+}
+
+.content p {
+    font-family: Lexend Deca, sans-serif;
+    font-weight: 400;
+    color: hsla(0, 0%, 100%, 0.75);
+    text-justify: auto;
+    line-height: 25px;
+    padding-bottom: 50px;
+    font-size: 15px;
+}
+
+.btn1 {
+    color: hsl(31, 77%, 52%);;
+}
+
+.btn2 {
+    color: hsl(184, 100%, 22%);
+}
+
+.btn3 {
+    color: hsl(179, 100%, 13%);
+}
+
+.column-1 {
+    background-color: hsl(31, 77%, 52%);
+    border-radius: 10px 0 0 10px;
+}
+
+.column-2 {
+    background-color: hsl(184, 100%, 22%);
+}
+
+.column-3 {
+    background-color: hsl(179, 100%, 13%);
+    border-radius: 0 10px 10px 0; 
+
+}
+
+.attribution {
+    font-size: 11px; text-align: center;
+    font-family: Lexend Deca, sans-serif;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+/* Responsivo */
+
+/* Tablet */
+
+@media only screen and (min-width: 768px) and (max-width: 979px) {
+
+}
+
+/* Mobile */
+
+@media only screen and (max-width:768px) {
+
+}
