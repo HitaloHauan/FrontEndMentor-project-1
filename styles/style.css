@@ -5,9 +5,8 @@
     box-sizing: border-box;
 }
 
-
-
 /* styles */
+
 button {
     font-size: 16px;
     font-family: Lexend Deca, sans-serif;
@@ -114,6 +113,7 @@ footer {
 
 /* Responsivo */
 
+
 /* Tablet */
 
 @media only screen and (min-width: 768px) and (max-width: 979px) {
@@ -136,8 +136,6 @@ footer {
         line-height: 23px;
         padding-bottom: 20px;
     }
-
-
 
 }
 
@@ -162,6 +160,5 @@ footer {
     .column-3 {
         border-radius: 0 0 10px 10px;
     }
-
     
 }
