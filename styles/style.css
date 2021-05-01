@@ -5,6 +5,8 @@
     box-sizing: border-box;
 }
 
+
+
 /* styles */
 button {
     font-size: 16px;
@@ -18,10 +20,9 @@ button {
 }
 
 footer {
-    position: absolute;
     bottom: 0;
     width: 100%;
-    margin-bottom: 30px;
+    margin: 30px 0;
 }
 
 .grid {
@@ -107,10 +108,50 @@ footer {
 
 @media only screen and (min-width: 768px) and (max-width: 979px) {
 
+    .column {
+        width: 250px;
+        height: 480px;
+    }
+
+    .column-2 p {
+        height: 177.5px;
+    }
+
+    .container h1 {
+        font-size: 30px;
+    }
+
+    .container p {
+        font-size: 14px;
+        line-height: 23px;
+        padding-bottom: 20px;
+    }
+
+
+
 }
 
 /* Mobile */
 
 @media only screen and (max-width:768px) {
 
+    footer {
+        position: static;
+        margin: 30px 0;
+    }
+
+    .container {
+        align-items: center;
+        flex-direction: column;    
+    }
+
+    .column-1 {
+        border-radius: 10px 10px 0 0;
+    }
+
+    .column-3 {
+        border-radius: 0 0 10px 10px;
+    }
+
+    
 }
