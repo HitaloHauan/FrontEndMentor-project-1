@@ -28,6 +28,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - Flexbox
+- Design Responsive
 
 ## Author
 
