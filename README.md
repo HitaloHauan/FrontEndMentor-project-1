@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Martinsons/FrontEndMentor-3.column.card]
+- Solution URL: [https://github.com/HomunculusAdvence/projeto2]
 - Live Site URL: [https://gallant-perlman-f0fcad.netlify.app/]
 
 ## My process
