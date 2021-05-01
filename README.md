@@ -31,4 +31,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@Martinsons](https://www.frontendmentor.io/profile/HomunculusAdvence)
+- Frontend Mentor - [@HitaloHauan](https://www.frontendmentor.io/profile/HomunculusAdvence)
