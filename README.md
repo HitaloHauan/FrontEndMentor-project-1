@@ -14,10 +14,12 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
+![](./screenshot2.jpg)
+
 
 ### Links
 
-- Solution URL: [https://github.com/HomunculusAdvence/projeto2]
+- Solution URL: [https://github.com/HomunculusAdvence/projeto2]]
 - Live Site URL: [https://gallant-perlman-f0fcad.netlify.app/]
 
 ## My process
@@ -26,9 +28,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - Flexbox
-- Mobile-first workflow
 
 ## Author
 
-- Frontend Mentor - [@Martinsons](https://www.frontendmentor.io/profile/Martinsons)
-- Twitter - [@Martiiinson](https://twitter.com/Martiiinson)
+- Frontend Mentor - [@Martinsons](https://www.frontendmentor.io/profile/HomunculusAdvence)
