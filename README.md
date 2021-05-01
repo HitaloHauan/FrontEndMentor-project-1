@@ -20,7 +20,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/HomunculusAdvence/projeto2]]
-- Live Site URL: [https://0cyc3.csb.app/]
+- Live Site URL: [https://6xe17.csb.app/]
 
 ## My process
 
